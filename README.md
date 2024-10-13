@@ -1,4 +1,4 @@
-# CrowdChain!
+# RyuChain!
 ## Crowdfunding dApp with ThirdWeb, React, Solidity, Metamask, and Tailwind CSS
 
 ![CrowdChain Homepage](https://i.ibb.co/jJhxxpN/Screen-Shot-2023-08-16-at-00-25-13.png)
